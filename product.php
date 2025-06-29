@@ -3,7 +3,6 @@
     ========================================================================
     PRODUCT DETAILS PAGE (product.php)
     ------------------------------------------------------------------------
-    By: Abdiwilly
     
     Objective: 
     1.  Get a general 'product_id' from the URL (e.g., from index.php).
