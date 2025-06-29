@@ -3,7 +3,6 @@
     ========================================================================
     ORDER CONFIRMATION PAGE (confirmation.php)
     ------------------------------------------------------------------------
-    By: Abdiwilly
     
     Objective:
     1.  Get a specific 'order_id' from the URL (e.g., from checkout redirect).
